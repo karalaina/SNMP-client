@@ -1,4 +1,4 @@
-﻿A remote system monitor utitilizing the Simple Network Management Protocol (SNMP) built with the PySNMP python library. 
+﻿A remote system monitor utitilising the Simple Network Management Protocol (SNMP) built with the PySNMP python library. 
 
 Authors: Kara Campbell and Tom Buckley
 
